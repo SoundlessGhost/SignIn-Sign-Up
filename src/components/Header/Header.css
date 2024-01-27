@@ -1,0 +1,14 @@
+.HeaderContainer{
+    text-align: center;
+    margin-top: 40px;
+}
+.HeaderContainer a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+a{
+    color: black;
+}
